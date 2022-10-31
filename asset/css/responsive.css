@@ -1,0 +1,716 @@
+@media screen and (max-width:1290px) {
+    .display .disolay-pic img {
+        width: 80%;
+        height: 80%;
+    }
+
+    .display .head-text h1 {
+        font-size: 6rem;
+    }
+
+    .display .head-text h4 {
+        font-size: 2.5rem;
+    }
+
+    .reservation-left .bottle {
+        height: 380px;
+        margin: -100px 0 0 120px;
+    }
+
+    .display .head-text p {
+        font-size: 1.1rem;
+    }
+}
+
+
+@media screen and (max-width:1200px) {
+    .display .disolay-pic img {
+        width: 80%;
+        height: 75%;
+    }
+
+    .display .head-text h1 {
+        font-size: 5.5rem;
+        letter-spacing: 5px;
+    }
+
+    .display .head-text h4 {
+        font-size: 2.5rem;
+    }
+
+    .reservation-left .bottle {
+        height: 380px;
+        margin: -120px 0 0 100px;
+    }
+
+    .reservation-left .plate {
+        height: 450px;
+        margin: 220px 0 0 -0px;
+    }
+
+    .footer-content .footer-content-left .footer-sort-dis {
+        margin: 30px 0 150px 0;
+    }
+
+    .display .disolay-pic .price-box {
+        height: 185px;
+        width: 185px;
+        margin: 0 -120px -250px 0px;
+
+    }
+
+    .display .disolay-pic .price-box .price {
+        height: 160px;
+        width: 160px;
+    }
+
+    .display .disolay-pic .price-box .price .amount p:nth-child(1) {
+        font-size: 5rem;
+    }
+
+    .display .disolay-pic .price-box .price .amount p:nth-child(2) {
+        font-size: 1.5rem;
+    }
+
+    .display .disolay-pic .price-box .price h3 {
+        margin-top: 5px;
+        font-size: 2rem;
+    }
+
+}
+
+@media screen and (max-width:1175px) {
+    html {
+        font-size: 90%;
+    }
+}
+
+@media screen and (max-width:1125px) {
+    html {
+        font-size: 80%;
+    }
+
+    .display .disolay-pic img {
+        width: 80%;
+        height: 70%;
+    }
+
+    .card {
+        height: 350px;
+    }
+
+    .reservation-left .bottle {
+        height: 380px;
+        margin: -120px 0 0 90px;
+    }
+
+    .reservation-left .plate {
+        height: 450px;
+        margin: 200px 0 0 -0px;
+    }
+}
+
+@media screen and (max-width:1080px) {
+    html {
+        font-size: 70%;
+    }
+
+    .display .disolay-pic .price-box {
+        height: 165px;
+        width: 165px;
+        margin: 0 -120px -250px 0px;
+
+    }
+
+    .display .disolay-pic .price-box .price {
+        height: 140px;
+        width: 140px;
+    }
+
+    .head-box {
+        height: 90%;
+    }
+
+    .display .disolay-pic .price-box .price .amount p:nth-child(2) {
+        font-size: 2rem;
+        height: 60px;
+    }
+
+    .display .disolay-pic .price-box .price h3 {
+        margin-top: -15px;
+    }
+
+    .reservation-left .bottle {
+        height: 370px;
+        margin: -110px 0 0 80px;
+    }
+
+    .reservation-left .plate {
+        height: 450px;
+        margin: 180px 0 0 -0px;
+    }
+}
+
+@media screen and (max-width:1033px) {
+    .head-box .header .menu ul li {
+        font-size: 1.1rem;
+    }
+}
+
+@media screen and (max-width:965px) {
+    .head-box .header .menu ul li {
+        font-size: 1rem;
+    }
+
+    .head-box {
+        height: 80%;
+    }
+
+    .display .disolay-pic .price-box {
+        height: 125px;
+        width: 125px;
+        margin: 0 -90px -220px 0px;
+
+    }
+
+    .display .disolay-pic .price-box .price {
+        height: 100px;
+        width: 100px;
+    }
+
+
+    .display .disolay-pic .price-box .price .amount p:nth-child(1) {
+        font-size: 4rem;
+    }
+
+    .display .disolay-pic .price-box .price .amount p:nth-child(2) {
+        font-size: 1.5rem;
+        height: 44px;
+    }
+
+    .display .disolay-pic .price-box .price h3 {
+        margin-top: -30px;
+        font-size: 1.5rem;
+        letter-spacing: 6px;
+    }
+
+    .reservation-left .bottle {
+        height: 350px;
+        margin: -110px 0 0 60px;
+    }
+
+    .reservation-left .plate {
+        height: 420px;
+        margin: 160px 0 0 -0px;
+    }
+
+    .reservation-left .burger {
+        height: 290px;
+        margin-left: -70px;
+    }
+
+    .footer-content .footer-content-left .footer-sort-dis {
+        margin: 30px 0 120px 0;
+    }
+
+    .card {
+        height: 300px;
+    }
+}
+
+@media screen and (max-width:940px) {
+
+    .logo {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .menu-toggle-ico {
+        display: block;
+    }
+
+    .menu {
+        background-color: rgba(201, 198, 198, 0.938);
+        position: fixed;
+        top: 0;
+        right: 0;
+        height: 100%;
+        z-index: 100;
+        width: 0px;
+        display: none;
+    }
+
+    .menu-after {
+        background-color: rgba(201, 198, 198, 0.938);
+        position: fixed;
+        top: 0;
+        right: 0;
+        height: 100%;
+        z-index: 100;
+        width: 0px;
+        display: none;
+    }
+
+    .menu .contact {
+        display: block;
+        margin: 20px;
+        border-bottom: 3px solid #3d2514;
+        padding-bottom: 10px;
+    }
+
+    .menu .contact img {
+        height: 45px;
+        margin-right: 35px;
+        margin: 20px auto;
+        display: flex;
+    }
+
+    .head-box .header .menu ul {
+        display: block;
+    }
+
+    .head-box .header .menu ul li {
+        margin: 10px;
+    }
+
+    .menu .contact p {
+        font-family: 'Montserrat-Bold';
+        font-size: 1rem;
+        color: #3d2514;
+    }
+
+    .head-box .header .menu ul li {
+        font-size: 1.4rem;
+    }
+
+    .far {
+        font-size: 30px;
+        padding: 10px;
+        display: block;
+    }
+
+    .ads-box {
+        letter-spacing: 2px;
+        height: 450px;
+    }
+
+    .reservation-middle form .reservation-middle-left input, .reservation-middle form .reservation-middle-right input {
+        padding: 14px 15px;
+    }
+}
+
+@media screen and (max-width:870px) {
+    .reservation-left .bottle {
+        height: 320px;
+        margin: -80px 0 0 40px;
+    }
+
+    .reservation-left .plate {
+        height: 400px;
+        margin: 160px 0 0 -0px;
+    }
+
+    .reservation-left .burger {
+        height: 270px;
+        margin-left: -70px;
+    }
+
+    .ads-box {
+        letter-spacing: 2px;
+        height: 350px;
+    }
+
+    .logo img {
+        height: 60px;
+        cursor: pointer;
+    }
+
+    .reservation-middle form .reservation-middle-left input, .reservation-middle form .reservation-middle-right input {
+        padding: 12px 15px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .reservation-left .bottle {
+        height: 290px;
+        margin: -80px 0 0 40px;
+    }
+
+    .reservation-left .plate {
+        height: 380px;
+        margin: 180px 0 0 -0px;
+    }
+
+    .reservation-left .burger {
+        height: 250px;
+        margin-left: -70px;
+    }
+
+    .reservation-left {
+        width: 20%;
+        height: 450px;
+        margin-bottom: 0px;
+    }
+
+    .head-box {
+        height: 70%;
+    }
+
+    .ads-box {
+        letter-spacing: 2px;
+        height: 300px;
+    }
+
+    .card {
+        height: 250px;
+    }
+
+    .footer-content .footer-content-left .footer-sort-dis {
+        margin: 30px 0 100px 0;
+    }
+
+    .footer-content .footer-content-right .social-ico .icon {
+        height: 20px;
+        width: 20px;
+    }
+
+    .reservation-middle form .reservation-middle-left input, .reservation-middle form .reservation-middle-right input {
+        padding: 10px 15px;
+    }
+}
+
+@media screen and (max-width:670px) {
+
+    .head-box {
+        height: 60%;
+    }
+
+    .display .disolay-pic .price-box {
+        height: 100px;
+        width: 100px;
+        margin: 0 -90px -220px 0px;
+
+    }
+
+    .display .disolay-pic .price-box .price {
+        height: 85px;
+        width: 85px;
+    }
+
+
+    .display .disolay-pic .price-box .price .amount p:nth-child(1) {
+        font-size: 3.3rem;
+    }
+
+    .display .disolay-pic .price-box .price .amount p:nth-child(2) {
+        font-size: 1.3rem;
+        height: 44px;
+    }
+
+    .display .disolay-pic .price-box .price h3 {
+        margin-top: -40px;
+        font-size: 1.3rem;
+        letter-spacing: 6px;
+    }
+
+    .logo img {
+        height: 55px;
+        cursor: pointer;
+    }
+
+    .display .head-text h1 {
+        font-size: 5rem;
+    }
+
+    .display .head-text h4 {
+        font-size: 2.3rem;
+    }
+
+    .display .head-text p {
+        font-size: 1rem;
+    }
+
+    .ads-box .left-ads .left-t-box {
+        letter-spacing: 3px;
+    }
+
+    .ads-box .right-ads .right-t-box {
+        letter-spacing: 3px;
+    }
+
+    .head-tex-des {
+        font-size: 2.8rem;
+    }
+
+    .card .card-elements .card-elements-off .card-left h1 {
+        margin: 0 0 10px 0;
+    }
+
+    .footer-content .footer-content-left .footer-sort-dis {
+        margin: 30px 0 80px 0;
+    }
+
+    .reservation-left .bottle {
+        height: 290px;
+        margin: -80px 0 0 20px;
+    }
+
+    .reservation-left .plate {
+        height: 380px;
+        margin: 160px 0 0 -0px;
+    }
+
+    .reservation-left .burger {
+        height: 250px;
+        margin-left: -70px;
+    }
+
+    .reservation-middle form .reservation-middle-left input, .reservation-middle form .reservation-middle-right input {
+        padding: 10px 15px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .display .disolay-pic {
+        width: 50%;
+        justify-content: right;
+    }
+
+    .display .head-text {
+        width: 50%;
+        display: flex;
+        align-items: center;
+        padding: 0 40px;
+    }
+
+    .ads-box {
+        display: block;
+        height: auto;
+    }
+
+    .ads-box .left-ads, .ads-box .right-ads {
+        width: 100%;
+        height: 50%;
+    }
+
+    .ads-box .right-ads-main {
+        width: 80%;
+        height: 65%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .ads-box .left-ads, .ads-box .right-ads {
+        align-items: center;
+        display: flex;
+        justify-content: space-around;
+        height: 100%;
+        align-items: center;
+    }
+
+    .ads-box .left-ads .left-t-box {
+        width: 80%;
+        height: 200px;
+        margin: 30px 0 20px 0;
+    }
+
+    .ads-box .right-ads .right-t-box {
+        height: 150px;
+        margin: 10px 0 20px 0;
+    }
+
+    .dicryption-box .pictures-dis {
+        display: flex;
+        width: 100%;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .dicryption-box .pictures-dis .pic-dis-child {
+        width: 75%;
+        height: 30%;
+        margin-bottom: 40px;
+    }
+
+    .dicryption-box .pictures-dis .pic-dis-child h2 {
+        font-size: 3rem;
+        margin: -5px 0 -5px 0;
+    }
+
+    .dicryption-box .pictures-dis .pic-dis-child p {
+        font-size: 1.7rem;
+    }
+
+    .card {
+        height: 370px;
+    }
+
+    .card .card-elements {
+        height: 370px;
+        justify-content: center;
+    }
+
+    .card .card-elements .card-elements-off .card-left, .card .card-elements .card-elements-off .card-left .card-right {
+        width: 100%;
+        text-align: center;
+        margin-top: 15px;
+        padding: 0 20px;
+    }
+
+    .card .card-elements .card-elements-off {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .card .-dot {
+        margin-top: 15px;
+    }
+
+    .reservation-middle {
+        width: 60%;
+        height: 400px;
+        display: block;
+    }
+
+    .reservation-middle form {
+        display: block;
+    }
+
+    .reservation-middle form .reservation-middle-left, .reservation-middle form .reservation-middle-right {
+        display: block;
+        width: 100%;
+
+    }
+
+    .reservation-middle form .reservation-middle-left input, .reservation-middle form .reservation-middle-right input {
+        padding: 5px 15px;
+        margin-top: 10px;
+        width: 100%;
+        outline: none;
+        border: 1px solid rgb(172, 165, 165);
+        border-radius: 5px;
+        font-family: 'Bebas_Neue';
+        letter-spacing: 2px;
+    }
+
+    .footer {
+        padding: 0 20px 20px 20px;
+        flex-direction: column;
+        margin-top: 30px;
+    }
+
+    .footer-content {
+        padding: 30px 20px 0 20px;
+        flex-direction: column;
+    }
+
+    .footer-content .footer-content-left, .footer-content .footer-content-right {
+        width: 100%;
+    }
+
+    .footer-content .footer-content-left img {
+        height: 60px;
+    }
+
+    .footer-content .footer-content-left .footer-sort-dis {
+        margin: 30px 0 50px 0;
+    }
+
+    .footer-content .footer-content-left .copyright {
+        font-family: 'Montserrat-Regular';
+        margin-bottom: 20px;
+    }
+
+    .footer-content .footer-content-right .sate-info {
+        height: 80%;
+        display: flex;
+        justify-content: left;
+    }
+
+    .footer-content .footer-content-right .sate-info p {
+        width: 100%;
+
+    }
+
+    .footer-content .footer-content-right .social-ico {
+        margin-bottom: 20px;
+    }
+
+    .footer-content .footer-content-right .sate-info p img {
+        margin-right: 20px;
+        height: 30px;
+        width: 27px;
+    }
+
+    #h1Text {
+        font-size: 1.6rem;
+    }
+}
+
+@media screen and (max-width:550px) {
+
+    .display .head-text {
+        width: 100%;
+    }
+
+    .display .disolay-pic {
+        display: none;
+    }
+}
+
+@media screen and (max-width:420px) {
+
+    .display .head-text h1 {
+        font-size: 4rem;
+    }
+
+    .display .head-text h4 {
+        font-size: 2rem;
+    }
+
+    .display .head-text p {
+        font-size: .8rem;
+    }
+
+    .logo img {
+        height: 40px;
+        cursor: pointer;
+    }
+
+    .footer {
+        padding: 0 20px 20px 20px;
+        flex-direction: column;
+        margin-top: 30px;
+    }
+
+    .footer-content {
+        padding: 30px 20px 0 20px;
+        flex-direction: column;
+    }
+
+    .footer-content .footer-content-left img {
+        height: 40px;
+    }
+
+    .footer-content .footer-content-left .footer-sort-dis {
+        margin: 30px 0 20px 0;
+    }
+
+    .footer-content .footer-content-left .copyright {
+        margin-bottom: 10px;
+    }
+
+    .footer-content .footer-content-right .sate-info p img {
+        margin: -10px 20px;
+        height: 20px;
+        width: 17px;
+    }
+
+    #h1Text {
+        font-size: 1.2rem;
+    }
+}
